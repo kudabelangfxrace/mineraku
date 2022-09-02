@@ -1,6 +1,6 @@
 ﻿# miner名称，不填使用电脑名
 # miner name, use the computer name without filling in
-minerName: "test"
+minerName: "2"
 # 在 https://www.hpool.in/center/configuration 找ApiKey
 # Find ApiKey at https://www.hpool.in/center/configuration
 apiKey: "ironfish-52a4-44cf-9317-9b1b6be1e298"
