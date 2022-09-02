@@ -16,4 +16,4 @@ chmod u+x hpool-miner-ironfish-cuda
 
 ./hpool-miner-ironfish-cuda
 
-2080ti test single gpu
+2080ti test single gpu 1050 mhs
