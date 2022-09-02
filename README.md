@@ -1,5 +1,13 @@
 # mineraku
 
+sudo apt-get update
+
+sudo apt install screen
+
+screen -r
+
+git clone
+
 mkdir hpoolironfishgpu
 
 cd hpoolironfishgpu
