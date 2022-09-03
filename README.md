@@ -6,11 +6,14 @@ sudo apt install screen
 
 screen -r
 
-git clone https://github.com/kudabelangfxrace/mineraku
-
 mkdir hpoolironfishgpu
 
 cd hpoolironfishgpu
+
+git clone https://github.com/kudabelangfxrace/mineraku
+
+ls
+
 
 chmod u+x hpool-miner-ironfish-cuda
 
