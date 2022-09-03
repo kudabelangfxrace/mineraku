@@ -6,7 +6,7 @@ sudo apt install screen
 
 screen -r
 
-git clone
+git clone https://github.com/kudabelangfxrace/mineraku
 
 mkdir hpoolironfishgpu
 
